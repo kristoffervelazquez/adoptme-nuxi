@@ -11,7 +11,16 @@
   },
   "dependencies": {
     "nuxt": "^3.13.0",
+    "nuxt-auth-utils": "^0.4.4",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@nuxt/ui": "^2.18.7",
+    "@types/yup": "^0.29.14",
+    "i": "^0.3.7",
+    "npm": "^10.9.0",
+    "nuxt-mongoose": "^1.0.6"
   }
 }
